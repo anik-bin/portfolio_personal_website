@@ -12,7 +12,7 @@ export default function Home() {
 
           <ul className="list-disc px-4">
             <li>I am from Bhubaneswar, Odisha</li>
-            <li>I am obssesed of rubiks cube. I was deeply invested in speedcubing few years back</li>
+            <li>I am obssesed of rubiks cubes. I was deeply invested in speedcubing few years back</li>
             <li>I mostly work on full stack web development in Javascript</li>
           </ul>
 
