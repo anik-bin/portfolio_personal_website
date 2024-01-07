@@ -16,7 +16,7 @@ export default function Home() {
             <li>I mostly work on full stack web development in Javascript</li>
           </ul>
 
-          <p className="text-md my-4">I love tech and I have been fond of computers since childhood. Programming came into my life accidentally when I saw the movie the social network when I was in high school. Since then I have been deeply invested in programming. I want to deep dive into every domain but I know it isn't possible but i believe in taking small steps and getting there eventually.</p>
+          <p className="text-md my-4">I love tech and I have been fond of computers since childhood. Programming came into my life accidentally when I saw the movie the social network when I was in high school. Since then I have been deeply invested in programming. I want to deep dive into every domain but I know it isn&apos;t possible but i believe in taking small steps and getting there eventually.</p>
 
           <div className="flex flex-row gap-4">
           <Link href="/blog" className="underline font-bold">Blog</Link>
