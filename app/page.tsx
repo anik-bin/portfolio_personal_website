@@ -7,7 +7,7 @@ export default function Home() {
         <div className="p-5 max-w-screen-md">
           <h1 className="text-4xl font-extrabold">Hi 👋, how are you</h1>
           <p className="text-md my-4">
-            I&apos;m currently pursuing my Master&apos;s in Cyber Security after completing my B.Tech in Computer Science. I&apos;m passionate about technology and have always loved exploring the endless possibilities it offers.
+            Hey, I am Aniket. I&apos;m currently pursuing my Master&apos;s in Cyber Security after completing my B.Tech in Computer Science. I&apos;m passionate about technology and have always loved exploring the endless possibilities it offers.
           </p>
           <p className="text-md my-4">
             I hail from Bhubaneswar, Odisha, and I&apos;ve had a lifelong fascination with puzzles, especially Rubik&apos;s cubes. A few years ago, I was deeply into speedcubing, and that obsession taught me the value of patience and problem-solving — qualities I now bring to my work in full stack web development. I focus primarily on building dynamic applications using JavaScript, but I&apos;m always curious to explore new tech landscapes.
