@@ -23,7 +23,7 @@ export default function Home() {
             <Link href="/blog" className="underline font-bold">Blog</Link>
             <Link href="https://github.com/anik-bin" className="underline font-bold">Github</Link>
             <Link href="https://x.com/aniketbindhani" className="underline font-bold">X</Link>
-            <Link href="https://drive.google.com/file/d/1vv_RVa1gTrbvdPG1eau2u72JutgFxS29/view?usp=sharing" className="underline font-bold">Resume</Link>
+            <Link href="https://drive.google.com/file/d/1fiiMXVkrN-I7TAn0aaIiQYDeCe5TUKpF/view?usp=sharing" className="underline font-bold">Resume</Link>
           </div>
         </div>
       </div>
